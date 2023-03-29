@@ -7,7 +7,7 @@ import java.io.FileWriter;
 // 1 + 3 = 4
 // 4 + 3 = 7
 
-public class ht_2_t_3 {
+public class task_3{
     public static void main(String[] args) {
         File calculus = new File("calculus.txt");
         Scanner symbol = new Scanner(System.in);

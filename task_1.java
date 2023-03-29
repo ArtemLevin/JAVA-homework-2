@@ -5,7 +5,7 @@ import java.io.IOException;
 // Реализуйте алгоритм сортировки пузырьком числового массива (введён вами),
 // результат после каждой итерации запишите в лог-файл.
 
-public class ht_2_task_1 {
+public class task_1{
     /**
      * @param args
      * @throws IOException
